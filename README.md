@@ -20,9 +20,9 @@ Objetivos:
 
 -Tecnologias utilizadas:
 
--HTML5
+-HTML
 
--CSS3
+-CSS
 
 Funcionalidades:
 
