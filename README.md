@@ -38,7 +38,7 @@ Funcionalidades:
 
 Público-alvo:
 
--Pessoas interessadas em conhecer esportes, praticar exercícios físicos e melhorar sua qualidade de vida.
+-Pessoas de todas as idades que buscam praticar exercícios físicos e melhorar sua qualidade de vida.
 
 Estrutura do projeto:
 
