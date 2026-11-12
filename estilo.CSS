@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 
 :root {
@@ -180,7 +181,6 @@ details {
 summary {
     font-weight: 600;
     color: var(--primary-color);
-    cursor: pointer;
 }
 
 details p {
@@ -259,15 +259,32 @@ footer p + p {
     opacity: 0.8;
 }
 
+a,
+button,
+summary,
+.botao,
+input[type="submit"],
+input[type="button"],
+input[type="reset"],
+[role="button"] {
+    cursor: pointer;
+}
+
+button:disabled,
+input:disabled,
+[aria-disabled="true"] {
+    cursor: not-allowed;
+}
+
 @media (max-width: 768px) {
     header h1 {
         font-size: 2rem;
     }
-    
+
     .cartoes {
         grid-template-columns: 1fr;
     }
-    
+
     main {
         padding: 0 1rem;
     }
