@@ -42,7 +42,7 @@ Público-alvo:
 
 Estrutura do projeto:
 
--O projeto é composto por páginas HTML, arquivos CSS responsáveis pela aparência do site e imagens utilizadas na apresentação dos conteúdos.
+-O projeto é composto por páginas HTML, arquivos CSS responsáveis pela aparência do site e imagens(emojis) utilizadas na apresentação dos conteúdos.
 
 Considerações finais:
 
